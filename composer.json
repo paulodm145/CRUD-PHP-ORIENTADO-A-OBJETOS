@@ -1,0 +1,17 @@
+{
+    "name": "paulo/exercicio",
+    "description": "Aplica\u0000\u0000o desenvolvida como teste para contrata\u0000\u0000o como desenvolvedor PHP",
+	"autoload": {
+        "psr-4": {
+			"ClassesSistema\\" : "Classes\\",
+			"Helpers\\" : "Helpers\\"
+		}
+    },
+    "authors": [
+        {
+            "name": "Paulo Roberto Bolsanello",
+            "email": "paulo.bolsanello@gmail.com"
+        }
+    ],
+    "require": {}
+}
